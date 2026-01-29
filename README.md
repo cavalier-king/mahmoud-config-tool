@@ -29,8 +29,10 @@ https://cavalier-king.github.io/mahmoud-config-tool/       لینک ابزار
 
 یکی دیگر از قابلیت‌های مهم این ابزار، امکان تغییر و ساده‌سازی Remark‌ها (نام‌های طولانی و نامنظم کانفیگ‌ها) است؛ به‌طوری که می‌توانید هر نام دلخواهی را جایگزین آن‌ها کنید و لیست کانفیگ‌های مرتب و خوانا داشته باشید.
 
+اگر دوست داشتی ⭐ بده
 
-✨ Tool Description (English)
+
+✨ Tool Description 
 
 When you have a subscription link, it usually contains a large number of configurations. Among them, some configs may be inactive or non-working, which can clutter your application and make management difficult.
 
@@ -56,6 +58,7 @@ You can also use QR Codes to quickly import them into your client apps
 
 Another important feature of this tool is the ability to rename long or messy remarks. You can replace them with any custom name you prefer, resulting in a clean and well-organized list of configurations.
 
+If you like it, please give it a ⭐
 
 ## 📸 Screenshots
 
