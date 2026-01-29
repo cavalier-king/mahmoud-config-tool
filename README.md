@@ -1,6 +1,9 @@
 # mahmoud-config-tool
 Multi-Protocol Subscription Parser (VLESS / VMESS / TROJAN)
-✨ توضیح ابزار 
+
+https://cavalier-king.github.io/mahmoud-config-tool/       لینک ابزار 
+
+✨ توضیح ابزار
 
 زمانی که یک لینک ساب‌اسکریپشن در اختیار دارید، معمولاً تعداد زیادی کانفیگ مختلف داخل آن وجود دارد. در این میان، برخی از کانفیگ‌ها ممکن است غیرفعال یا غیرقابل استفاده باشند و باعث شلوغی و سردرگمی در اپلیکیشن شما شوند.
 
@@ -52,3 +55,12 @@ You can copy configs directly
 You can also use QR Codes to quickly import them into your client apps
 
 Another important feature of this tool is the ability to rename long or messy remarks. You can replace them with any custom name you prefer, resulting in a clean and well-organized list of configurations.
+
+
+## 📸 Screenshots
+
+
+![Main Screen](screenshots/app1.png)
+
+
+![Config Processing](screenshots/app2.png)
